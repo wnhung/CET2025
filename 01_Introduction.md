@@ -110,7 +110,8 @@ center: false
 
 ---
 
-![莊祖鯤](img/book_莊祖鯤.jpg)
+![莊祖鯤書](img/book_莊祖鯤.jpg)
+
 ## 莊祖鯤
 
 - 從西方字源學來看倫理
@@ -129,7 +130,8 @@ center: false
 
 ---
 
-![孔祥炯](img/book_孔祥炯.png)
+![孔祥炯書](img/book_孔祥炯.png)
+
 ## 孔祥炯
 
 1. 倫理學 (Ethics) 是研究道德原則的學科，目標是分辨正確和錯誤的行為。
