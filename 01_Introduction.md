@@ -25,7 +25,7 @@ center: false
 
 ---
 
-![[book_林鴻信.jpg]]
+![林鴻信書](img/book_林鴻信.jpg)
 
 第一部  緒論
 - 導論／如何做倫理道德判斷？
