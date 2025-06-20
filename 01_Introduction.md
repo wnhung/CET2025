@@ -1,12 +1,4 @@
----
-css: assets/css/wn-lecture.css
-bg: img/background2.png
-width: 1920
-height: 1079
-center: false
----
 # 基督教倫理學
-
 ## Unit 01 - 導論
 
 ---
