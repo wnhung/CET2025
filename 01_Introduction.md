@@ -61,7 +61,7 @@ center: false
 
 ---
 
-![[img/book_羅秉祥.jpg|800]]
+![羅秉祥書](img/book_羅秉祥.jpg)
 
 ## 羅秉祥
 
@@ -74,7 +74,7 @@ center: false
 
 ---
 
-![[img/book_賈斯勒.jpg]]
+![賈斯勒](img/book_賈斯勒.jpg)
 ## 賈斯勒
 
 > 倫理學乃是研究道德上的對與錯
@@ -97,16 +97,12 @@ center: false
 
 ---
 
-![[img/book_古德恩.jpg]]
+![古德恩書](img/book_古德恩.jpg)
 ## 古德恩
 
 > Christian ethics is any study that answers the question, "What does the whole Bible teach us about which acts, attitudes, and personal character traits receive God's approval, and which do not?" 
 
 > 基督教倫理學是任何針對這個問題作出回答的研究：「整本聖經教導我們哪些行為、態度和個人品格特質是蒙神喜悅的，哪些則不是？」
-
----
-
-![[img/book_古德恩.jpg|800]]
 
 > The emphasis of systematic theology is on what God wants us to believe and to know, while the emphasis in Christian ethics is on what God wants us to do and what attitudes he wants us to have. . . . Thus theology focuses on ideas while ethics focuses on situations in life. Theology tells us how we should think while ethics tells us how we should live.
 
@@ -114,7 +110,7 @@ center: false
 
 ---
 
-![[book_莊祖鯤.jpg|800]]
+![莊祖鯤](book_莊祖鯤.jpg)
 ## 莊祖鯤
 
 - 從西方字源學來看倫理
@@ -133,7 +129,7 @@ center: false
 
 ---
 
-![[book_孔祥炯.png]]
+![孔祥炯](book_孔祥炯.png)
 ## 孔祥炯
 
 1. 倫理學 (Ethics) 是研究道德原則的學科，目標是分辨正確和錯誤的行為。
@@ -188,10 +184,9 @@ Ping:
 
 ---
 
-![inline](img/莊_真理之網.jpg)
-
+![真理之網](img/莊_真理之網.jpg)
 
 ---
 # 倫理學系統
 
-![[img/ethics_systems.png]]
+![ES](img/ethics_systems.png)
