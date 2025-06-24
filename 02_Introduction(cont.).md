@@ -1,12 +1,3 @@
----
-css: assets/css/wn-lecture.css
-bg: img/background2.png
-width: 1920
-height: 1080
-center: false
----
-
----
 ## 非律論/ 反規範式 Antinomianism 
 
 賈氏：非律倫的基本信念
