@@ -300,8 +300,7 @@ Stanley Hauerwas, _Matthew_, BTCB (Grand Rapids: Brazos, 2007), 193.
 - 人若不改變提升的話，最好的目的還有意義嗎？最好的法則又豈能落實呢？
 ---
 
-::: img
-![[book_候活士_品格的群體.jpg]]
+![候活士書](img/book_候活士_品格的群體.jpg)
 
 美國當代基督教倫理學家侯活士 (Stanley Hauerwas, 1940-) 
 - 反對一般的目的論與義務論，認爲行動者被忽略了。
