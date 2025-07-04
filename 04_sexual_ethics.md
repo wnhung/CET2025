@@ -744,11 +744,11 @@
 **對同性婚姻的態度 (2023)**
 (Pew 2023 的報告：How people around the world view same-sex marriage)
 
-![[pew_samesex_2023.webp]]
+![Pew_Samesex1](img/pew_samesex_2023.webp)
 
 **從宗教在生活的重要性來看**
 
-![[pew_samesex_religion.webp]]
+![Pew_Samesex2](img/pew_samesex_religion.webp)
 
 近代爭取同性戀合法化及平等權的運動，主要是二次大戰後由西方國家開始的。
 - 1989 年丹麥首先承認同性戀者「家庭伙伴」（Domesi Partnership）的身份，後來挪威、瑞典、荷蘭及德國也跟進。
@@ -756,13 +756,16 @@
 - 加拿大於2005年正式容許同性戀婚姻合法化。
 - 天主教為主的中南美洲國家也紛紛跟進，如阿根廷 (2010)、巴西 (2013)、烏拉圭 (2013)、哥倫比亞 (2016)、厄瓜多 (2019) 等。
 - 亞州：台灣 (2019)、尼泊爾 (2024)、泰國 (2025)
-- 至2025年，開放同婚的地方有 **==40==** 個。
-![[pew_samesex_place.webp]]
+- 至2025年，開放同婚的地方有 <mark><b>40</b></mark> 個。
+
+![Pew_Samesex3](img/pew_samesex_place.webp)
 
 目前同性戀運動將五種人並列：
-- 女同性戀者（Lesbian）、男同性戀者 （Gay） 、雙性戀者（Bisexual）、變性人（「ansgender）、不知性別者（Queer），合稱 LGBTQ 以壯聲勢。
+- 女同性戀者 (Lesbian)、男同性戀者 (Gay)、雙性戀者 (Bisexual)、變性人 (Tansgender)、不知性別者 (Queer)，合稱 LGBTQ 以壯聲勢。
 - 其實變性手術並不普遍，泰國是變性手術最多的國家，這種變性人被稱為「人妖」。
 - 很特別的是，伊朗的變性手術數目僅次於泰國，因為他們禁止同性戀，所以將這種手術作為同性戀的「治療方案」。
+- 2SLGBTQI+ 見[加拿大政府網站](https://www.canada.ca/en/women-gender-equality/free-to-be-me/2slgbtqi-plus-glossary.html)
+
 
 華人社會
 - 稱同性戀運動為「同運」，同性戀者為「同志」，對同性戀比較排斥。
@@ -952,7 +955,7 @@ CDC 2010年的資料
 - 然而，許多時候，當「罪很明顯」時，怎麼接納：吸毒者、LGBTQ+ 人士、…
 - 或許我們把「接納罪人」這件事看得太簡單…
 - 我們反對同性性行為，但如保看待有同性性傾向的人? 特別是同志基督徒。
-- 
+ 
 
 https://billy3321.github.io/tapcpr/christian.html
 
